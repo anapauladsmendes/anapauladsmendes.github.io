@@ -55,8 +55,10 @@ links:
 
 #projects in header index
 projects:
-  - name: Talks
-    url: https://github.com/anapauladsmendes/talks
+  - name: 100 Days of Code
+    url: https://github.com/anapauladsmendes/100-days-of-code
+  - name: Talks and Workshops
+    url: https://github.com/anapauladsmendes/my-talks-and-workshops
   - name: Dictionary of technology slang
     url: https://github.com/anapauladsmendes/dictionary-slangwords-terms
   - name: PyLadies Teresina
