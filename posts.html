@@ -1,16 +1,15 @@
 ---
-layout: compress
+layout: minimal
+title: "My Posts"
+permalink: /posts/index.html
+description: "Posts"
 ---
+<h2>Posts</h2>
 
-<!DOCTYPE html>
-<html lang="pt-br">
-    {% include head.html %}
-    <body>
-        <div class="page_posts">
-        {% include svg-icons.html %}
-        {% include header-post.html %}
-        {% include tree-posts.html %}
-        </div>
-        {% include scripts.html %}
-    </body>
-</html>
+<div class="aboutme">
+	<ul class="recent">
+		{% for post in site.posts %}
+	  		<li><a href="{{ post.url | prepend: site.baseurl }}"><h3 class="project-name" itemprop="name">{{ post.title}} - {{ post.created}} - {{post.by}}</h3></a></li>
+	  {% endfor %}
+	</ul>
+</div>
