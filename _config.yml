@@ -1,0 +1,66 @@
+# Site settings
+title: Ana no Terminal
+description: "Um blog de tecnologia para falar de código, computação, programação, comunidades, linguagens de programação e o mundo de desenvolvimento."
+baseurl: ""
+url: ""
+
+# User settings
+username: ANA PAULA MENDES
+user_title: Ana Paula Mendes
+email: ananoterminal@gmail.com
+twitter_username: ananoterminal
+github_username:  anapauladsmendes
+linkedin_public_url: ana-paula-mendes-22b55088/
+gplus_username: AnaPauladaSilvaMendes
+disqus_username: ananoterminal
+profile_picture: https://avatars0.githubusercontent.com/u/9610091?s=460&v=4
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+links:
+  section_1:
+    - title: home
+      url: /
+      key_trigger: 1
+    - title: my posts
+      url: /posts
+      key_trigger: 2
+    - title: series
+      url: /series
+      key_trigger: 3
+    - title: tags
+      url: /tags
+      key_trigger: 4
+    - title: about me
+      url: /about
+      key_trigger: 5
+  section_2:
+    - title: resume
+      url: /AnaPaulaMendesResume.pdf
+      key_trigger: r
+    - title: talks & workshops
+      url: /talks
+      key_trigger: t
+
+#projects in header index
+projects:
+  - name: Talks
+    url: https://github.com/anapauladsmendes/talks
+  - name: Dictionary of technology slang
+    url: https://github.com/anapauladsmendes/dictionary-slangwords-terms
+  - name: PyLadies Teresina
+    url: https://github.com/anapauladsmendes/pyladiesteresina.github.io
+
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules', Gemfile, Gemfile.lock]

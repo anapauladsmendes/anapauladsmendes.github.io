@@ -1,0 +1,71 @@
+---
+layout: minimal
+title: "About me"
+permalink: /about/index.html
+description: "Ana Paula Mendes"
+---
+<!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous"> -->
+<img itemprop="image" class="img-rounded about_perfil" src=" https://avatars0.githubusercontent.com/u/9610091?s=460&v=4" alt="My profile">
+
+<div class="aboutme">
+	<p>I am a student of Computer Science at UFPI, I have technical background in Software Development at IFPI.
+		In love with Debian and Fedora-based Linux distributions. I believe in knowledge to open doors, so I love
+		learning and sharing it!
+	</p>
+</div>
+
+<h2>My projects</h2>
+
+<div class="aboutme">
+	<ul class="recent">
+		{% for project in site.projects %}
+	  		<li><a href="{{ project.url}}"><h3 class="project-name" itemprop="name">{{ project.name }}</h3></a></li>
+	  {% endfor %}
+	</ul>
+</div>
+
+<h2>My skills</h2>
+
+<div class="aboutme">
+	<ul class="recent">
+		<table class="table table-borderless">
+		  <tbody>
+		    <tr>
+		      <td><li><h3 class="project-name" itemprop="name">Python</h3></li></td>
+		      <td><li><h3 class="project-name" itemprop="name">Django</h3></li></td>
+		      <td><li><h3 class="project-name" itemprop="name">Selenium</h3></li></td>
+					<td><li><h3 class="project-name" itemprop="name">JavaScript</h3></li></td>
+		    </tr>
+		    <tr>
+		      <td><li><h3 class="project-name" itemprop="name">Git</h3></li></td>
+		      <td><li><h3 class="project-name" itemprop="name">HTML</h3></li></td>
+		      <td><li><h3 class="project-name" itemprop="name">CSS</h3></li></td>
+					<td><li><h3 class="project-name" itemprop="name">Bootstrap</h3></li></td>
+		    </tr>
+				<tr>
+		      <td><li><h3 class="project-name" itemprop="name">Vim</h3></li></td>
+					<td><li><h3 class="project-name" itemprop="name">Linux</h3></li></td>
+					<td><li><h3 class="project-name" itemprop="name">REST API</h3></li></td>
+		      <td><li><h3 class="project-name" itemprop="name">Django Rest Framework</h3></li></td>
+		    </tr>
+		  </tbody>
+		</table>
+	</ul>
+</div>
+
+<h2>Learning</h2>
+
+<div class="aboutme">
+	<ul class="recent">
+		<table class="table table-borderless">
+		  <tbody>
+		    <tr>
+		      <td><li><h3 class="project-name" itemprop="name">Docker</h3></li></td>
+					<td><li><h3 class="project-name" itemprop="name">Wagtail</h3></li></td>
+		      <td><li><h3 class="project-name" itemprop="name">Node.js</h3></li></td>
+		      <td><li><h3 class="project-name" itemprop="name">Express</h3></li></td>
+		    </tr>
+		  </tbody>
+		</table>
+	</ul>
+</div>
