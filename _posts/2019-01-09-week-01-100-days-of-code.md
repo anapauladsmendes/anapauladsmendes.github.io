@@ -2,7 +2,7 @@
 layout: post
 title:  "Week 01 - 100 Days of Code"
 image: ''
-date: 2019-01-09 00:00:00
+date: 2019-01-09 15:00:00
 created: 2019/01/09
 by: Ana Paula Mendes
 tags:
@@ -14,6 +14,7 @@ description: ''
 categories:
 - 100DaysOfCode
 ---
+
 ![enter image description here](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif)
 
 I decided to do the challenge 100 days of code to create a coding study routine that I planned and I can improve my skills. I love computing and I believe that the #100DaysOfCode challenge will help me become a better programmer!
