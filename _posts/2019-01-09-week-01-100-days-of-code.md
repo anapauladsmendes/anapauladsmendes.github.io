@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Week 01 - 100 Days of Code"
-image: ''
+image: 'https://avatars0.githubusercontent.com/u/9610091?s=460&v=4'
 date: 2019-01-09 15:00:00
 created: 2019/01/09
 by: Ana Paula Mendes
