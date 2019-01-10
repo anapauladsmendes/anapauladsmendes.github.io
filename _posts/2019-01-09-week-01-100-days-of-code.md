@@ -12,7 +12,7 @@ tags:
 - Code
 description: ''
 categories:
-- 100DaysOfCode
+- 100 Days Of Code
 ---
 
 ![A cute cat typing in the computer ](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif)
