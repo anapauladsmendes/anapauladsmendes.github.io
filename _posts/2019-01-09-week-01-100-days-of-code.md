@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Week 01 - 100 Days of Code"
-image: 'https://avatars0.githubusercontent.com/u/9610091?s=460&v=4'
+image: 'https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif'
 date: 2019-01-09 15:00:00
 created: 2019/01/09
 by: Ana Paula Mendes
@@ -15,7 +15,7 @@ categories:
 - 100DaysOfCode
 ---
 
-![enter image description here](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif)
+![A cute cat typing in the computer ](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif)
 
 I decided to do the challenge 100 days of code to create a coding study routine that I planned and I can improve my skills. I love computing and I believe that the #100DaysOfCode challenge will help me become a better programmer!
 
