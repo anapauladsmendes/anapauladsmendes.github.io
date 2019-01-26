@@ -1604,6 +1604,9 @@ footer p {
 }
 
 @media only screen and (min-width: 300px) and (max-width: 900px) {
+	.header-site .content {
+		margin-top: 20px;
+	}
 	.header-site .person img {
 		margin-top: 0;
 		width: 100px;
@@ -1627,6 +1630,9 @@ footer p {
 }
 
 @media only screen and (min-width: 400px) and (max-width: 900px) {
+	.header-site .content {
+		margin-top: 20px;
+	}
 	.header-site .person img {
 		margin-top: 0;
 		width: 150px;
