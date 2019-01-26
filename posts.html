@@ -9,7 +9,7 @@ description: "Posts"
 <div class="aboutme">
 	<ul class="recent">
 		{% for post in site.posts %}
-	  		<li><a href="{{ post.url | prepend: site.baseurl }}"><h3 class="project-name" itemprop="name">{{ post.title}} - {{ post.created}} - {{post.by}}</h3></a></li>
+	  		<li><a href="{{ post.url | prepend: site.baseurl }}"><p class="project-name" itemprop="name">{{ post.title}} - {{ post.created}} - {{post.by}}</p></a></li>
 	  {% endfor %}
 	</ul>
 </div>

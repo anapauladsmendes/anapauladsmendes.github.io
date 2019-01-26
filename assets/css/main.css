@@ -209,51 +209,14 @@ optgroup {
 }
 
 table {
-	border-collapse: collapse;
-	border-spacing: 0
+  display: table;
+  width: 100%;
 }
-
-td,
-th {
-	padding: 0
+tr {
+  display: table-row;
 }
-
-.table {
-	width: 100%;
-	margin-bottom: 1rem;
-	background-color: transparent
-}
-
-.table td,
-.table th {
-	padding: .75rem;
-	vertical-align: top;
-	border-top: 1px solid #dee2e6
-}
-
-.table thead th {
-	vertical-align: bottom;
-	border-bottom: 2px solid #dee2e6
-}
-
-.table tbody+tbody {
-	border-top: 2px solid #dee2e6
-}
-
-.table .table {
-	background-color: #fff
-}
-
-.table-sm td,
-.table-sm th {
-	padding: .3rem
-}
-
-.table-borderless tbody+tbody,
-.table-borderless td,
-.table-borderless th,
-.table-borderless thead th {
-	border: 0
+td {
+  display: table-cell;
 }
 
 .nav {
@@ -883,22 +846,25 @@ body.search-overlay:after {
 	background-color: rgba(135, 116, 169, 0.42)
 }
 
-.aboutme li h3 {
+.aboutme li p {
 	font-size: 1.25rem;
+	font-weight: bold;
+	color: #000;
 	margin-bottom: 7px;
 	position: relative;
 }
 
-.aboutme li h3:before {
+.aboutme li p:before {
 	content: "|>";
 	font-size: 1.25rem;
+	font-weight: bold;
 	color: #000;
 	position: absolute;
 	left: -10px;
 	transition: all .2s
 }
 
-.aboutme li h3:hover:before {
+.aboutme li p:hover:before {
 	-webkit-transform: translateX(-10px);
 	transform: translateX(-10px)
 }
@@ -1317,16 +1283,6 @@ body {
 	fill: #2f2f33
 }
 
-table {
-	margin: 3.125rem auto;
-}
-
-table th,
-table td {
-	border: .125rem solid #ccc;
-	padding: .313rem
-}
-
 .tag-title {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
@@ -1626,6 +1582,11 @@ pre span {
 	font-size: 1.875rem
 }
 
+p.description {
+	font-size: 0.9rem;
+	text-align: justify;
+}
+
 footer {
 	background: #2f2f33;
 	padding: 1.563rem 0;
@@ -1776,9 +1737,6 @@ footer p {
 		line-height: 1.5;
 		padding: 0
 	}
-	table {
-		display: none
-	}
 	.tag-title {
 		font-size: 1.75rem;
 		margin-top: 1.25rem;
@@ -1796,6 +1754,20 @@ footer p {
 	.author .details {
 		text-align: center
 	}
+	.aboutme li p {
+		font-size: 0.9rem;
+	}
+
+	.aboutme li p:before {
+		font-size: 0.9rem;
+	}
+  td {
+    display: block;
+  }
+  tr {
+    display: table-cell;
+    width: 50%;
+  }
 }
 
 @media only screen and (min-width:768px) {
