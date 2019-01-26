@@ -54,8 +54,6 @@ Gostou do help? Curte e compartilha com as pessoas! ❤
 
 Segue nas redes também:
 
--   [Instagram: @ananoterminal](https://www.instagram.com/ananoterminal/)
 -   [Twitter: @ananoterminal](https://twitter.com/ananoterminal)
--   [Facebook: /ananoterminal](https://www.facebook.com/ananoterminal/)
 -   [Medium: /ananoterminal](https://medium.com/ananoterminal)
--   [Github: /ananoterminal](https://github.com/ananoterminal)
+-   [Github: /anapauladsmendes](https://github.com/anapauladsmendes)
