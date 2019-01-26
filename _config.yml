@@ -11,7 +11,6 @@ email: ananoterminal@gmail.com
 twitter_username: ananoterminal
 github_username:  anapauladsmendes
 linkedin_public_url: ana-paula-mendes-22b55088/
-gplus_username: AnaPauladaSilvaMendes
 disqus_username: ananoterminal
 profile_picture: https://avatars0.githubusercontent.com/u/9610091?s=460&v=4
 
@@ -50,7 +49,7 @@ links:
       url: /AnaPaulaMendesResume.pdf
       key_trigger: r
     - title: talks & workshops
-      url: /talks
+      url: /talks-workshops
       key_trigger: t
 
 #projects in header index
