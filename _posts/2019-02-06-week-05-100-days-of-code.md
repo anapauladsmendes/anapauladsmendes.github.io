@@ -15,7 +15,7 @@ categories:
 - 100 Days Of Code
 ---
 
-![A pink square with the phrase: Today is the day](https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif)
+![Sponge Bob and Patrick saying, "We have technology," pointing to a computer.](https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif)
 
 This is my fifth week doing the #100DaysOfCode challenge. This week I read a lot and doing this post I paid attention that, but I have being very tired too. It's really challenging to keep up the pace on #100DaysOfCode.
 
