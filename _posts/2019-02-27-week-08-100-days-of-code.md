@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Week 08 - 100 Days of Code"
-image: 'A cat sitting](https://media.giphy.com/media/cKIDjWJ6NepDa/giphy.gif'
+image: 'https://media.giphy.com/media/cKIDjWJ6NepDa/giphy.gif'
 date: 2019-02-27 15:00:00
 created: 2019/02/27
 by: Ana Paula Mendes
