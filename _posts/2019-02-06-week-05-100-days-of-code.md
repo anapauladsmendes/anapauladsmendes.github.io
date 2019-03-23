@@ -4,6 +4,7 @@ title:  "Week 05 - 100 Days of Code"
 image: 'https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif'
 date: 2019-02-06 15:00:00
 created: 2019/02/06
+idiom: "english"
 by: Ana Paula Mendes
 tags:
 - 100DaysOfCode

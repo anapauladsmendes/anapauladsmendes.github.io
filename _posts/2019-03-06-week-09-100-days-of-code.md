@@ -4,6 +4,7 @@ title:  "Week 09 - 100 Days of Code"
 image: 'https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif'
 date: 2019-03-06 15:00:00
 created: 2019/03/06
+idiom: "english"
 by: Ana Paula Mendes
 tags:
 - 100DaysOfCode

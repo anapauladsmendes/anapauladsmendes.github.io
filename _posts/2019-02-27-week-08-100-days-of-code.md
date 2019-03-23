@@ -4,6 +4,7 @@ title:  "Week 08 - 100 Days of Code"
 image: 'https://media.giphy.com/media/cKIDjWJ6NepDa/giphy.gif'
 date: 2019-02-27 15:00:00
 created: 2019/02/27
+idiom: "english"
 by: Ana Paula Mendes
 tags:
 - 100DaysOfCode

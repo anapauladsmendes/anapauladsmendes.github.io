@@ -4,6 +4,7 @@ title:  "Como reutilizar sua SSH Key"
 image: ''
 date: 2018-12-31 15:00:00
 created: 2018/12/31
+idiom: "portuguese"
 by: Ana Paula Mendes
 tags:
 - linux

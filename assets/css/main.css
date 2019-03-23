@@ -847,16 +847,16 @@ body.search-overlay:after {
 }
 
 .aboutme li p {
-	font-size: 1.25rem;
+	font-size: 1rem;
 	font-weight: bold;
-	color: #000;
+	color: #8774a9;
 	margin-bottom: 7px;
 	position: relative;
 }
 
 .aboutme li p:before {
 	content: "|>";
-	font-size: 1.25rem;
+	font-size: 0.9rem;
 	font-weight: bold;
 	color: #000;
 	position: absolute;
@@ -1601,6 +1601,22 @@ footer p {
 	color: #fff;
 	text-align: center;
 	margin: 0
+}
+
+tbody#posts-idiom {
+	vertical-align: top;
+}
+
+ul.recent {
+	margin-top: 30px;
+}
+
+p#posts-title.project-name {
+	font-size: 0.9rem;
+}
+
+th.idiom {
+	font-size: 1.5rem;
 }
 
 @media only screen and (min-width: 300px) and (max-width: 900px) {

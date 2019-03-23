@@ -4,6 +4,7 @@ title:  "Começando com Python"
 image: ''
 date:   2018-01-08 10:00:01
 created: 2018/01/08
+idiom: "portuguese"
 by: Ana Paula Mendes
 tags:
 - python
