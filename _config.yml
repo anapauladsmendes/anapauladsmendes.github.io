@@ -54,6 +54,8 @@ links:
 
 #projects in header index
 projects:
+  - name: Colaboradados
+    url: https://github.com/colaboradados/colaboradados.github.io
   - name: 100 Days of Code
     url: https://github.com/anapauladsmendes/100-days-of-code
   - name: Talks and Workshops
