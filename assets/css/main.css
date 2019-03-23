@@ -1611,10 +1611,6 @@ ul.recent {
 	margin-top: 30px;
 }
 
-p#posts-title.project-name {
-	font-size: 0.9rem;
-}
-
 th.idiom {
 	font-size: 1.5rem;
 }
@@ -1648,6 +1644,16 @@ th.idiom {
 	}
 	.header-site .recent a h2 {
 		font-size: 0.875rem;
+	}
+
+	table.table-posts tr th{
+		text-align: center;
+    padding-left: 0;
+    width: 25%;
+	}
+
+	#posts-title {
+		text-align: left;
 	}
 }
 

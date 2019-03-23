@@ -8,18 +8,20 @@ description: "Follow here my publications on code, programming, computer science
 <h2>Posts</h2>
 
 <div class="aboutme">
-	<table>
-		<tbody id="posts-idiom">
+	<table class="table-posts">
+		<thead>
 			<tr>
 				<th class="idiom">English</th>
 				<th class="idiom">Portuguese</th>
 			</tr>
+		</thead>
+		<tbody id="posts-idiom">
 			<tr>
 				<th>
 					<ul class="recent">
 						{% for post in site.posts %}
 							{% if post.idiom == "english" %}
-					  		<li><a href="{{ post.url | prepend: site.baseurl }}"><p id="posts-title" class="project-name" itemprop="name">{{ post.title}} - {{ post.created}} - {{post.by}}</p></a></li>
+					  		<li id="posts-title"><a href="{{ post.url | prepend: site.baseurl }}"><p class="project-name" itemprop="name">{{ post.title}} - {{ post.created}} - {{post.by}}</p></a></li>
 							{% endif %}
 					  {% endfor %}
 					</ul>
@@ -28,7 +30,7 @@ description: "Follow here my publications on code, programming, computer science
 					<ul class="recent">
 						{% for post in site.posts %}
 							{% if post.idiom == "portuguese" %}
-					  		<li><a href="{{ post.url | prepend: site.baseurl }}"><p id="posts-title" class="project-name" itemprop="name">{{ post.title}} - {{ post.created}} - {{post.by}}</p></a></li>
+					  		<li id="posts-title"><a href="{{ post.url | prepend: site.baseurl }}"><p class="project-name" itemprop="name">{{ post.title}} - {{ post.created}} - {{post.by}}</p></a></li>
 							{% endif %}
 					  {% endfor %}
 					</ul>
