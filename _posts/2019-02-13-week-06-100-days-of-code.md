@@ -20,7 +20,7 @@ categories:
 
 This is my sixth week doing the #100DaysOfCode challenge. This week I contributed a lot with open source code. It has been very gratifying to apply the knowledge I have gained through months of hard work. I am happy with my studies and I hope to complete the challenge.
 
-If you want to read about what I did last week, see here: “[Week 05 - 100 Days of Code](https://anapauladsmendes.github.io/week-05-100-days-of-code/)” .
+If you want to read about what I did last week, see here: “[Week 05 - 100 Days of Code](https://anapaulamendes.github.io/week-05-100-days-of-code/)” .
 
 Day 36 - I studied Classes of Python, I read the article: 'Change a django password manually', and I finished my slides for my Python workshop.
 
@@ -40,7 +40,7 @@ Day 42 - I sent another PR to the Python Brasil wiki. I fixed the django version
 
 -   Classes e Objetos: https://aprendendo-computacao-com-python.readthedocs.io/en/latest/capitulo_12.html
 - Change a django password manually: https://www.laurivan.com/change-a-django-password-manually/
-- Python workshop repository: https://github.com/anapauladsmendes/my-talks-and-workshops/tree/master/workshop-python-iniciantes
+- Python workshop repository: https://github.com/anapaulamendes/my-talks-and-workshops/tree/master/workshop-python-iniciantes
 - wiki python br repository: https://github.com/pythonbrasil/wiki
 - Colaboradados repository: https://github.com/colaboradados/colaboradados.github.io
 - Colaboradados website: https://colaboradados.github.io/

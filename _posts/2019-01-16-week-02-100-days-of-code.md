@@ -20,7 +20,7 @@ categories:
 
 This is my second week doing the #100DaysOfCode challenge. The first week I had a performance far beyond what I expected. This week was a bit harder to keep up, because I had urgent health problems, but I'm better.
 
-From now on I will summarize the subjects I studied during the week in a more concise way since I presented my motivations in the first post "[Week 01 - 100 Days of Code](https://anapauladsmendes.github.io/week-01-100-days-of-code/)".
+From now on I will summarize the subjects I studied during the week in a more concise way since I presented my motivations in the first post "[Week 01 - 100 Days of Code](https://anapaulamendes.github.io/week-01-100-days-of-code/)".
 
 Day 8 - I read Django Tips about 'Optimize Database Queries' and I read a part of 'QuerySet API reference' from the Django documentation.
 

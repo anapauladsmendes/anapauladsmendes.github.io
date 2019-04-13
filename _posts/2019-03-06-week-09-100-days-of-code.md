@@ -20,7 +20,7 @@ categories:
 
 This is my ninth week doing the #100DaysOfCode challenge. I have learned a lot and applied my knowledge.
 
-If you want to read about what I did last week, see here: “[Week 08 - 100 Days of Code](https://anapauladsmendes.github.io/week-08-100-days-of-code/)” .
+If you want to read about what I did last week, see here: “[Week 08 - 100 Days of Code](https://anapaulamendes.github.io/week-08-100-days-of-code/)” .
 
 Day 57 - I contributed with open source fixing some issues of the site PyLadies Brazil.
 
@@ -44,8 +44,8 @@ Day 63 - I contributed with the [**Colaboradados**](https://twitter.com/colabora
 - Django and AJAX Form Submissions - More Practice: https://realpython.com/django-and-ajax-form-submissions-more-practice/
 - Colaboradados repository: https://github.com/colaboradados/colaboradados.github.io
 - Working With JSON Data in Python: https://realpython.com/python-json/
-- My Resume: https://anapauladsmendes.github.io/AnaPaulaMendesResume.pdf
-- My website: https://anapauladsmendes.github.io/
+- My Resume: https://anapaulamendes.github.io/AnaPaulaMendesResume.pdf
+- My website: https://anapaulamendes.github.io/
 - My Linkedin: https://www.linkedin.com/in/ana-paula-mendes-22b55088/
 - How to use git efficiently: https://adityasridhar.com/posts/how-to-use-git-efficiently
 - Git series 1/3: Understanding git for real by exploring the .git directory: https://medium.freecodecamp.org/understanding-git-for-real-by-exploring-the-git-directory-1e079c15b807

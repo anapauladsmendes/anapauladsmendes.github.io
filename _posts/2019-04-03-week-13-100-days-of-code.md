@@ -20,7 +20,7 @@ categories:
 
 This is my thirteenth week doing the #100DaysOfCode challenge.
 
-If you want to read about what I did last week, see here: “[Week 12 - 100 Days of Code](https://anapauladsmendes.github.io/week-12-100-days-of-code/)” .
+If you want to read about what I did last week, see here: “[Week 12 - 100 Days of Code](https://anapaulamendes.github.io/week-12-100-days-of-code/)” .
 
 Day 85 - I learned the Smith-Waterman algorithm. This algorithm performs local and global sequence alignment.
 
@@ -44,7 +44,7 @@ Day 91 - I studied Algorithm Analysis, Function Growth, Division and Conquer.
 - Floating Point Math: [https://0.30000000000000004.com/](https://0.30000000000000004.com/)
 - Is floating point math broken: [https://stackoverflow.com/questions/588004/is-floating-point-math-broken](https://stackoverflow.com/questions/588004/is-floating-point-math-broken)
 - Splicing: [https://pt.wikipedia.org/wiki/Splicing](https://pt.wikipedia.org/wiki/Splicing)
-- Splicing code: [https://github.com/anapauladsmendes/topics-of-bioinformatics/blob/master/splicing.py](https://github.com/anapauladsmendes/topics-of-bioinformatics/blob/master/splicing.py)
+- Splicing code: [https://github.com/anapaulamendes/topics-of-bioinformatics/blob/master/splicing.py](https://github.com/anapaulamendes/topics-of-bioinformatics/blob/master/splicing.py)
 - The skyline problem: [https://briangordon.github.io/2014/08/the-skyline-problem.html](https://briangordon.github.io/2014/08/the-skyline-problem.html)
 - The Skyline Problem using Divide and Conquer algorithm: [https://www.geeksforgeeks.org/the-skyline-problem-using-divide-and-conquer-algorithm/](https://www.geeksforgeeks.org/the-skyline-problem-using-divide-and-conquer-algorithm/)
 - Find the skyline of a group of buildings: [http://www.interviewdruid.com/find-the-skyline-of-a-group-of-buildings/](http://www.interviewdruid.com/find-the-skyline-of-a-group-of-buildings/)

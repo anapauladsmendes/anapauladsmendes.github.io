@@ -57,4 +57,4 @@ Segue nas redes também:
 
 -   [Twitter: @ananoterminal](https://twitter.com/ananoterminal)
 -   [Medium: /ananoterminal](https://medium.com/ananoterminal)
--   [Github: /anapauladsmendes](https://github.com/anapauladsmendes)
+-   [Github: /anapaulamendes](https://github.com/anapaulamendes)

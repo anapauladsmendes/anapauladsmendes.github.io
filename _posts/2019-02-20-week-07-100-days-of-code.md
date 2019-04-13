@@ -20,7 +20,7 @@ categories:
 
 This is my seventh week doing the #100DaysOfCode challenge. And I completed 50 days of the 100 days of code, so I'm halfway through the challenge and I've learned a lot.
 
-If you want to read about what I did last week, see here: “[Week 06 - 100 Days of Code](https://anapauladsmendes.github.io/week-06-100-days-of-code/)” .
+If you want to read about what I did last week, see here: “[Week 06 - 100 Days of Code](https://anapaulamendes.github.io/week-06-100-days-of-code/)” .
 
 Day 43 - I read about 'Django CKEditor'.
 

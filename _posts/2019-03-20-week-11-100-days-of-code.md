@@ -20,7 +20,7 @@ categories:
 
 This is my eleventh week doing the #100DaysOfCode challenge.
 
-If you want to read about what I did last week, see here: “[Week 10 - 100 Days of Code](https://anapauladsmendes.github.io/week-10-100-days-of-code/)” .
+If you want to read about what I did last week, see here: “[Week 10 - 100 Days of Code](https://anapaulamendes.github.io/week-10-100-days-of-code/)” .
 
 Day 71 - I tried to understand how assertRaises works in unit tests.
 
@@ -49,4 +49,4 @@ Day 77 - I did an algorithm to simulate a ribosome, from which you give an RNA i
 - User authentication in Django: https://docs.djangoproject.com/en/2.1/topics/auth/
 - User authentication and permissions: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Authentication
 - Resurrecting ancient animal genomes: the extinct moa and more: https://www.ncbi.nlm.nih.gov/pubmed/22674514
-- Ribosome code: https://github.com/anapauladsmendes/topics-of-bioinformatics/blob/master/ribosome.py
+- Ribosome code: https://github.com/anapaulamendes/topics-of-bioinformatics/blob/master/ribosome.py

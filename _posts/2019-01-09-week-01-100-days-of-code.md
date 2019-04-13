@@ -40,18 +40,18 @@ I hope that sharing my advances during the challenge help and motivate others as
 
 ## Content links:
 
- - My site: https://anapauladsmendes.github.io/
+ - My site: https://anapaulamendes.github.io/
  - My Telegram Bot with Python and API:
-   https://github.com/anapauladsmendes/telegram-bot-dog
+   https://github.com/anapaulamendes/telegram-bot-dog
  - Twitter API:
    https://developer.twitter.com/en/docs/api-reference-index
  - Django Rest Framework: https://www.django-rest-framework.org/
  - My code of DRF tutorial:
-   https://github.com/anapauladsmendes/django-rest-framework-tutorial
+   https://github.com/anapaulamendes/django-rest-framework-tutorial
  - Writing your first Django app:
    https://docs.djangoproject.com/en/2.1/intro/tutorial01/
  - My code of Django Polls Tutorial:
-   https://github.com/anapauladsmendes/django-polls-tutorial
+   https://github.com/anapaulamendes/django-polls-tutorial
  - PEP 20 - The Zen of Python: https://www.python.org/dev/peps/pep-0020/
  - Advanced tutorial: How to write reusable apps:
    https://docs.djangoproject.com/en/2.1/intro/reusable-apps/

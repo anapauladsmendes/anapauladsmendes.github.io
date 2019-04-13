@@ -21,7 +21,7 @@ categories:
 
 This is my tenth week doing the #100DaysOfCode challenge. It's exactly 1 month left to finish the challenge.
 
-If you want to read about what I did last week, see here: “[Week 09 - 100 Days of Code](https://anapauladsmendes.github.io/week-09-100-days-of-code/)” .
+If you want to read about what I did last week, see here: “[Week 09 - 100 Days of Code](https://anapaulamendes.github.io/week-09-100-days-of-code/)” .
 
 Day 64 - I read "Guys, REST APIs are not Databases", "API to Database? ", "How does it feel to be a junior developer" and "Como ser o programador Junior que toda empresa quer contratar".
 
@@ -52,5 +52,5 @@ Day 70 - I coded in my work on analysis common users of Github hireable by locat
 - How To Write a Twitter Bot with Python and tweepy: https://dototot.com/how-to-write-a-twitter-bot-with-python-and-tweepy/
 - Build A Tweet Bot With Python: https://scotch.io/tutorials/build-a-tweet-bot-with-python
 - Computer Theory: MENEZES, Paulo B. Linguagens Formais e Autômatos. 6a Ed. Porto Alegre: Bookman, 2010.
-- Analysis on github - Clique Problem repository: https://github.com/anapauladsmendes/clique-problem-hireable-github
-- Topics of bioinformatics repository: https://github.com/anapauladsmendes/topics-of-bioinformatics/
+- Analysis on github - Clique Problem repository: https://github.com/anapaulamendes/clique-problem-hireable-github
+- Topics of bioinformatics repository: https://github.com/anapaulamendes/topics-of-bioinformatics/

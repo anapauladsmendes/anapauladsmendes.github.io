@@ -20,7 +20,7 @@ categories:
 
 This is my eighth week doing the #100DaysOfCode challenge. I've gone over half the 100 days and feel like I've improved a lot as a developer in many ways.
 
-If you want to read about what I did last week, see here: “[Week 07 - 100 Days of Code](https://anapauladsmendes.github.io/week-07-100-days-of-code/)” .
+If you want to read about what I did last week, see here: “[Week 07 - 100 Days of Code](https://anapaulamendes.github.io/week-07-100-days-of-code/)” .
 
 Day 50 - I read "VIM and Python – A Match Made in Heaven".
 

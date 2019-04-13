@@ -20,7 +20,7 @@ categories:
 
 This is my third week doing the #100DaysOfCode challenge. It was a week that I directed my studies to the needs of my job.
 
-If you want to read about what I did last week, see here: "[Week 02 - 100 Days of Code](https://anapauladsmendes.github.io/week-02-100-days-of-code/)" .
+If you want to read about what I did last week, see here: "[Week 02 - 100 Days of Code](https://anapaulamendes.github.io/week-02-100-days-of-code/)" .
 
 Day 15 - I made statistical exercises about Mean, Median, Mode and mid-range, Frequency tables and Mean from frequency tables. I'm attending Winter of Data to learn Data Science.
 
@@ -46,8 +46,8 @@ Day 21 - I studied how to write custom django-admin commands. In recent days I h
 - Working with CSV files in Python: https://www.programiz.com/python-programming/working-with-csv-files
 - Manipulação de Arquivos CSV em Python: https://dadosedecisoes.com.br/manipulacao-de-arquivos-csv-em-python/
 - Ler e escrever arquivo csv com python nativo, csv, numpy e pandas: http://foobarspam.blogspot.com/2016/05/ler-e-escrever-arquivo-csv-com-python.html
-- My repository of csv-python: https://github.com/anapauladsmendes/csv-python
+- My repository of csv-python: https://github.com/anapaulamendes/csv-python
 - Tutorial SEO: https://www.seomarketing.com.br/tutorial-SEO.php
 - Writing custom  `django-admin`  commands: https://docs.djangoproject.com/en/2.1/howto/custom-management-commands/
 - How to Create Custom Django Management Commands: https://simpleisbetterthancomplex.com/tutorial/2018/08/27/how-to-create-custom-django-management-commands.html
-- My repository of django-polls with custom commands: https://github.com/anapauladsmendes/django-polls-tutorial/tree/master/polls/management/commands
+- My repository of django-polls with custom commands: https://github.com/anapaulamendes/django-polls-tutorial/tree/master/polls/management/commands

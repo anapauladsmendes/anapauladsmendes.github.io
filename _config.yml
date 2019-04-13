@@ -57,13 +57,13 @@ projects:
   - name: Colaboradados
     url: https://github.com/colaboradados/colaboradados.github.io
   - name: 100 Days of Code
-    url: https://github.com/anapauladsmendes/100-days-of-code
+    url: https://github.com/anapaulamendes/100-days-of-code
   - name: Talks and Workshops
-    url: https://github.com/anapauladsmendes/my-talks-and-workshops
+    url: https://github.com/anapaulamendes/my-talks-and-workshops
   - name: Dictionary of technology slang
-    url: https://github.com/anapauladsmendes/dictionary-slangwords-terms
+    url: https://github.com/anapaulamendes/dictionary-slangwords-terms
   - name: PyLadies Teresina
-    url: https://github.com/anapauladsmendes/pyladiesteresina.github.io
+    url: https://github.com/anapaulamendes/pyladiesteresina.github.io
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules', Gemfile, Gemfile.lock]

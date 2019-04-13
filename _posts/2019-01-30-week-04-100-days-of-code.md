@@ -20,7 +20,7 @@ categories:
 
 This is my fourth week doing the #100DaysOfCode challenge. So today I completed a month of challenge! TODAY IS THE DAY! >.<
 
-If you want to read about what I did last week, see here: "[Week 03 - 100 Days of Code](https://anapauladsmendes.github.io/week-03-100-days-of-code/)" .
+If you want to read about what I did last week, see here: "[Week 03 - 100 Days of Code](https://anapaulamendes.github.io/week-03-100-days-of-code/)" .
 
 Day 22 - I have fixed the responsiveness of my personal blog and SEO. Many elements that weren't responsive still needed improvement, but I gradually fixed it.
 
@@ -39,7 +39,7 @@ Day 28 - I read this wonderful post: 'The 7 Myths of Learning to Code' and I con
 
 ## Content links:
 
-- My personal blog: https://anapauladsmendes.github.io/
+- My personal blog: https://anapaulamendes.github.io/
 - 8 Tips for Great Code Reviews: https://kellysutton.com/2018/10/08/8-tips-for-great-code-reviews.html
 - How to Get the Current URL Within a Django Template: https://simpleisbetterthancomplex.com/tips/2016/07/20/django-tip-7-how-to-get-the-current-url-within-a-django-template.html
 - Blank or Null: https://simpleisbetterthancomplex.com/tips/2016/07/25/django-tip-8-blank-or-null.html

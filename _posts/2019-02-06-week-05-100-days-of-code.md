@@ -20,7 +20,7 @@ categories:
 
 This is my fifth week doing the #100DaysOfCode challenge. This week I read a lot and doing this post I paid attention that, but I have being very tired too. It's really challenging to keep up the pace on #100DaysOfCode.
 
-If you want to read about what I did last week, see here: "[Week 04 - 100 Days of Code](https://anapauladsmendes.github.io/week-04-100-days-of-code/)" .
+If you want to read about what I did last week, see here: "[Week 04 - 100 Days of Code](https://anapaulamendes.github.io/week-04-100-days-of-code/)" .
 
 Day 29 - I studied Git in more depth. A bit of good practice with Git too.
 

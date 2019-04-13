@@ -20,7 +20,7 @@ categories:
 
 This is my twelfth week doing the #100DaysOfCode challenge.
 
-If you want to read about what I did last week, see here: “[Week 11 - 100 Days of Code](https://anapauladsmendes.github.io/week-11-100-days-of-code/)” .
+If you want to read about what I did last week, see here: “[Week 11 - 100 Days of Code](https://anapaulamendes.github.io/week-11-100-days-of-code/)” .
 
 Day 78 - I improved the algorithm to simulate a ribosome by inserting an activator for processing. And I read "Class-based views".
 
@@ -40,9 +40,9 @@ Day 84 - I read about the MVC Architecture.
 ## Content links:
 
 -  Class-based views: [https://docs.djangoproject.com/en/2.1/topics/class-based-views/](https://docs.djangoproject.com/en/2.1/topics/class-based-views/)
-- Ribosome code: [https://github.com/anapauladsmendes/topics-of-bioinformatics/blob/master/ribosome.py](https://github.com/anapauladsmendes/topics-of-bioinformatics/blob/master/ribosome.py)
+- Ribosome code: [https://github.com/anapaulamendes/topics-of-bioinformatics/blob/master/ribosome.py](https://github.com/anapaulamendes/topics-of-bioinformatics/blob/master/ribosome.py)
 - Tutorials: [https://github.com/ES2-UFPI/gerenciamento-do-time-404/wiki](https://github.com/ES2-UFPI/gerenciamento-do-time-404/wiki)
-- Event API: [https://github.com/anapauladsmendes/eventos-api](https://github.com/anapauladsmendes/eventos-api)
+- Event API: [https://github.com/anapaulamendes/eventos-api](https://github.com/anapaulamendes/eventos-api)
 - ProtonVPN command-line tool for Linux: [https://protonvpn.com/support/linux-vpn-tool/](https://protonvpn.com/support/linux-vpn-tool/)
 - MVC: [https://pt.wikipedia.org/wiki/MVC](https://pt.wikipedia.org/wiki/MVC)
 - Model-View-Controller (MVC) Explained – With Legos: [https://realpython.com/the-model-view-controller-mvc-paradigm-summarized-with-legos/](https://realpython.com/the-model-view-controller-mvc-paradigm-summarized-with-legos/)
