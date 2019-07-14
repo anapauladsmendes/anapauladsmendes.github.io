@@ -54,6 +54,8 @@ links:
 
 #projects in header index
 projects:
+  - name: Certificates
+    url: https://drive.google.com/drive/folders/1P0TDK-VoCmwDDs91s8__dTD0NoqhE38U
   - name: Colaboradados
     url: https://github.com/colaboradados/colaboradados.github.io
   - name: 100 Days of Code
