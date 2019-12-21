@@ -21,7 +21,7 @@ description: "Follow here my publications on code, programming, computer science
 					<ul class="recent">
 						{% for post in site.posts %}
 							{% if post.idiom == "english" %}
-					  		<li id="posts-title"><a href="{{ post.url | prepend: site.baseurl }}"><p class="project-name" itemprop="name">{{ post.title}} - {{ post.created}} - {{post.by}}</p></a></li>
+					  		<li id="posts-title"><a href="{{ post.url | prepend: site.baseurl }}"><p class="project-name" itemprop="name">{{ post.title}} || {{ post.created}}</p></a></li>
 							{% endif %}
 					  {% endfor %}
 					</ul>
@@ -30,7 +30,7 @@ description: "Follow here my publications on code, programming, computer science
 					<ul class="recent">
 						{% for post in site.posts %}
 							{% if post.idiom == "portuguese" %}
-					  		<li id="posts-title"><a href="{{ post.url | prepend: site.baseurl }}"><p class="project-name" itemprop="name">{{ post.title}} - {{ post.created}} - {{post.by}}</p></a></li>
+					  		<li id="posts-title"><a href="{{ post.url | prepend: site.baseurl }}"><p class="project-name" itemprop="name">{{ post.title}} || {{ post.created}}</p></a></li>
 							{% endif %}
 					  {% endfor %}
 					</ul>
