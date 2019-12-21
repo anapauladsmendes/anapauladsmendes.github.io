@@ -231,14 +231,14 @@ td {
 
 .nav-link {
 	display: block;
-	color: white;
+	color: #2E1114;
 	padding: .5rem 1rem
 }
 
 .nav-link:focus,
 .nav-link:hover {
 	text-decoration: none;
-	background-color: rgba(135, 116, 169, 0.42);
+	background-color: #fff;
 }
 
 .nav-item {
@@ -307,13 +307,13 @@ h4 {
 	padding: .938rem;
 	margin: .125rem;
 	border-radius: 50%;
-	border: .125rem solid #fff;
+	border: .125rem solid #2E1114;
 	line-height: 0;
 	transition: all .7s;
 }
 
 .icons-home a .icon {
-	fill: #fff;
+	fill: #2E1114;
 	width: 18px;
 	height: 18px;
 }
@@ -323,7 +323,7 @@ h4 {
 }
 
 .icons-home a:hover .icon {
-	fill: #2f2f33
+	fill: #B88E8D
 }
 
 .down {
@@ -394,7 +394,7 @@ a.slideButton,
 
 .dosearch {
 	right: 10px;
-	background: #54456e;
+	background: #2E1114;
 	border-radius: .188rem;
 	padding: .125rem .188rem
 }
@@ -403,7 +403,7 @@ a.slideButton,
 	cursor: pointer;
 	padding: .313rem;
 	border-radius: .188rem;
-	background: #54456e;
+	background: #2E1114;
 	width: 2.5rem;
 	height: 2.5rem;
 	fill: #fff
@@ -427,7 +427,7 @@ aside {
 	height: 163px;
 	width: 100%;
 	bottom: -100%;
-	background: #2f2f33;
+	background: #2E1114;
 	z-index: 20;
 	box-shadow: inset -10px -1px 15px -9px rgba(0, 0, 0, 0.5);
 }
@@ -443,8 +443,8 @@ aside ul {
 }
 
 aside #topmenu {
-	background-color: #2f2f33;
-	border: 2px solid #2f2f33;
+	background-color: #B88E8D;
+	border: 2px solid #B88E8D;
 	*zoom: 1;
 }
 
@@ -535,7 +535,7 @@ aside #topmenu ul li {
 	-webkit-transform: skewx(-20deg);
 	transform: skewx(-20deg);
 	padding: 3px 4px 6px 4px;
-	background: #2f2f33;
+	background: #B88E8D;
 	display: inline-block;
 }
 
@@ -556,7 +556,7 @@ aside #topmenu ul li:first-child span {
 }
 
 aside #topmenu ul li:nth-child(3) {
-	background: #ab67ab;
+	background: #2E1114;
 	padding-right: 30px;
 	padding-left: 30px;
 }
@@ -573,7 +573,7 @@ aside #topmenu ul li span {
 	font-weight: 800;
 	font-style: normal;
 	font-size: .813rem;
-	color: #ab67ab
+	color: #2E1114;
 }
 
 aside nav ul {
@@ -583,7 +583,7 @@ aside nav ul {
 }
 
 aside nav ul .counter-menu {
-	color: #ab67ab;
+	color: #fff;
 	font-weight: 800;
 	margin-right: 4px
 }
@@ -595,11 +595,12 @@ aside nav ul a {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
 	font-style: normal;
-	color: #b3b3b1;
+	color: #B88E8D;
 }
 
 aside nav ul a:hover {
-	background: rgba(135, 116, 169, 0.42)
+	background: #fff;
+	color: #2E1114;
 }
 
 aside.slide {
@@ -815,9 +816,9 @@ body.search-overlay:after {
 
 .tags a {
 	font-size: .875rem;
-	color: #2f2f33;
+	color: #B88E8D;
 	display: inline-block;
-	border: 1px solid #2f2f33;
+	border: 1px solid #B88E8D;
 	border-radius: .313rem;
 	padding: .25rem .625rem;
 	margin-right: .125rem;
@@ -849,7 +850,7 @@ body.search-overlay:after {
 .aboutme li p {
 	font-size: 1rem;
 	font-weight: bold;
-	color: #8774a9;
+	color: #2E1114;
 	margin-bottom: 7px;
 	position: relative;
 }
@@ -877,7 +878,7 @@ body {
 .header-site,
 .header-post,
 .page-header {
-	background: #2f2f33;
+	background: #B88E8D;
 	height: 100%;
 }
 
@@ -930,7 +931,7 @@ body {
 
 .header-site .recent p {
 	text-align: left;
-	color: #fff
+	color: #2E1114
 }
 
 .header-site .recent a {
@@ -942,16 +943,16 @@ body {
 	margin: 0;
 	font-weight: 300;
 	font-size: 1.063rem;
-	border-bottom: 1px solid #8774a9;
+	border-bottom: 1px solid #2E1114;
 }
 
 .header-site .recent a h2:hover {
-	background: rgba(135, 116, 169, 0.42)
+	background: #fff
 }
 
 .header-site h1,
 .header-site h2 {
-	color: #fff;
+	color: #2E1114;
 	text-align: center
 }
 
@@ -1007,7 +1008,7 @@ body {
 .post h1:before,
 .post h2:before,
 .post h3:before {
-	color: #2f2f33;
+	color: #B88E8D;
 	font-weight: 300;
 	margin-right: 10px
 }
@@ -1020,7 +1021,7 @@ body {
 
 .post h1:before {
 	content: "#";
-	color: #2f2f33;
+	color: #B88E8D;
 	font-size: 2.5rem
 }
 
@@ -1080,9 +1081,9 @@ body {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
 	font-style: normal;
-	color: #2f2f33;
+	color: #B88E8D;
 	text-decoration: none;
-	border-bottom: 2px solid #2f2f33;
+	border-bottom: 2px solid #B88E8D;
 }
 
 .post-content a:hover {
@@ -1147,7 +1148,7 @@ body {
 	margin-left: auto;
 	padding-left: 0;
 	padding-right: 0;
-	border-left: .313rem solid #2f2f33;
+	border-left: .313rem solid #B88E8D;
 	padding: 0 1.875rem;
 	margin: 3.125rem auto;
 }
@@ -1213,7 +1214,7 @@ body {
 	width: 347px;
 	height: 100%;
 	position: fixed;
-	background-color: #2f2f33;
+	background-color: #B88E8D;
 	overflow-y: auto;
 	top: 0;
 }
@@ -1280,7 +1281,7 @@ body {
 }
 
 .share a:hover svg {
-	fill: #2f2f33
+	fill: #B88E8D
 }
 
 .tag-title {
@@ -1374,7 +1375,7 @@ pre span {
 	word-wrap: normal;
 	border-radius: 0;
 	padding: 20px;
-	background-color: #2f2f33;
+	background-color: #B88E8D;
 	color: #c1c2c3;
 	margin: 0;
 	margin-bottom: 30px
@@ -1538,7 +1539,7 @@ pre span {
 }
 
 .author .name a:hover {
-	color: #2f2f33
+	color: #B88E8D
 }
 
 .author .desc {
@@ -1551,7 +1552,7 @@ pre span {
 
 .author .email {
 	text-decoration: none;
-	color: #2f2f33
+	color: #B88E8D
 }
 
 .comments {
@@ -1588,7 +1589,7 @@ p.description {
 }
 
 footer {
-	background: #2f2f33;
+	background: #B88E8D;
 	padding: 1.563rem 0;
 	margin-top: 100px;
 	clear: both;
@@ -1758,7 +1759,7 @@ th.idiom {
 		display: none
 	}
 	body.search-overlay:after {
-		background-color: #2f2f33
+		background-color: #B88E8D
 	}
 	.post-content ul.post-list {
 		padding: 0 1.25rem
