@@ -1,13 +1,13 @@
 # Site settings
 title: Ana Paula Mendes
-description: "A personal blog to talk about technology, code, python, challenges, 100daysofcode and my experiences and projects in the area of ​​development. I publish my talks and workshops and posts."
+description: "A personal blog to share knowledge and my professional experience in the technology career."
 baseurl: ""
 url: ""
 
 # User settings
 username: ANA PAULA MENDES
 user_title: Ana Paula Mendes
-email: ananoterminal@gmail.com
+email: anapaula.ds.mendes@gmail.com
 twitter_username: ananoterminal
 github_username:  anapaulamendes
 linkedin_public_url: ana-paula-mendes-22b55088/
@@ -52,18 +52,14 @@ links:
       url: /talks-workshops
       key_trigger: t
 
-#projects in header index
+# projects in header index
 projects:
-  - name: Certificates
-    url: https://drive.google.com/drive/folders/1P0TDK-VoCmwDDs91s8__dTD0NoqhE38U
-  - name: Colaboradados
-    url: https://github.com/colaboradados/colaboradados.github.io
+  - name: Ana no Terminal
+    url: http://ananoterminal.me/
+  - name: Meninas Digitais Piauí
+    url: https://meninasdigitaispiaui.github.io/
   - name: 100 Days of Code
     url: https://github.com/anapaulamendes/100-days-of-code
-  - name: Talks and Workshops
-    url: https://github.com/anapaulamendes/my-talks-and-workshops
-  - name: Dictionary of technology slang
-    url: https://github.com/anapaulamendes/dictionary-slangwords-terms
   - name: PyLadies Teresina
     url: https://github.com/anapaulamendes/pyladiesteresina.github.io
 
