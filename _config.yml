@@ -1,8 +1,8 @@
 # Site settings
 title: Ana Paula Mendes
 description: "A personal blog to share knowledge and my professional experience in the technology career."
-baseurl: "https://anapaulamendes.github.io/"
-url: "https://anapaulamendes.github.io/"
+baseurl: "https://anapaulamendes.github.io"
+url: "https://anapaulamendes.github.io"
 
 # User settings
 username: ANA PAULA MENDES
