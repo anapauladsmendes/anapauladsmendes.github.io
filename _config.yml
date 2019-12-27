@@ -56,12 +56,16 @@ links:
 projects:
   - name: Ana no Terminal
     url: http://ananoterminal.me/
+    about: A personal initiative to share knowledge about technology, teach programming and create projects that help society in Portuguese.
   - name: Meninas Digitais Piauí
     url: https://meninasdigitaispiaui.github.io/
+    about: Women in technology initiative with students and teachers of the Universidade Federal do Piauí.
   - name: 100 Days of Code
     url: https://github.com/anapaulamendes/100-days-of-code
+    about: I completed the challenge of studying and coding for 100 days straight.
   - name: PyLadies Teresina
     url: https://github.com/anapaulamendes/pyladiesteresina.github.io
+    about: A local mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community in Teresina, Piauí, Brazil.
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules', Gemfile, Gemfile.lock]
