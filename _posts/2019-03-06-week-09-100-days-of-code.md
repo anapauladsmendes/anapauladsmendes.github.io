@@ -46,7 +46,7 @@ Day 63 - I contributed with the [**Colaboradados**](https://twitter.com/colabora
 - Working With JSON Data in Python: https://realpython.com/python-json/
 - My Resume: https://anapaulamendes.github.io/AnaPaulaMendesResume.pdf
 - My website: https://anapaulamendes.github.io/
-- My Linkedin: https://www.linkedin.com/in/ana-paula-mendes-22b55088/
+- My Linkedin: https://www.linkedin.com/in/anapauladsmendes/
 - How to use git efficiently: https://adityasridhar.com/posts/how-to-use-git-efficiently
 - Git series 1/3: Understanding git for real by exploring the .git directory: https://medium.freecodecamp.org/understanding-git-for-real-by-exploring-the-git-directory-1e079c15b807
 - Git series 2/3: rebase and the golden rule explained: https://medium.freecodecamp.org/git-rebase-and-the-golden-rule-explained-70715eccc372
