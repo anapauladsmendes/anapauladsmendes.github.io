@@ -1,0 +1,119 @@
+---
+layout: minimal
+title: "About me"
+permalink: /about
+image: 'https://avatars0.githubusercontent.com/u/9610091?s=460&v=4'
+description: "I'm a computer science student and full stack developer. In love with open source and knowledge."
+---
+
+<img itemprop="image" class="img-rounded about_perfil" src=" https://avatars0.githubusercontent.com/u/9610091?s=460&v=4" alt="My profile">
+
+<div class="aboutme">
+	<p class="description">
+		I’m a Computer Science student at <a href="http://ufpi.br/">Universidade Federal do Piauí</a>. I have technical background in Software Development at <a href="https://www.ifpi.edu.br/">Instituto Federal de Ciência e Tecnologia do Piauí</a>. I’m currently working as Full Stack Developer at <a href="https://www.quiploy.com/">Quiploy</a> and as a volunteer Software Developer Technical Lead in the open source project, <a href="http://colaboradados.com.br/">Colaboradados</a>. In academic life I’m a researcher at the Artificial Intelligence Laboratory, LINA, in the Computing department of the Universidade Federal do Piauí.
+	</p>
+	<p class="description">
+		I co-founded <a href="https://pyladiesteresina.github.io/">PyLadies Teresina</a> and <a href="https://meninasdigitaispiaui.github.io/">Meninas Digitais Piauí</a>. I am currently active in Meninas Digitais Piauí. As a member of <a href="http://brazil.pyladies.com/">PyLadies Brazil</a>, I love helping women's communities in technology whenever I can. I'm a member of <a href="https://teresinahc.github.io/">Teresina Hacker Clube</a> and <a href="https://pugpi.github.io/">Python User Group - Piauí</a> too.
+	</p>
+	<p class="description">
+		Besides these roles, I dedicate a portion of my time on a personal project called <a href="https://ananoterminal.github.io/">Ana no Terminal</a> where I share knowledge about code, science and technology. The focus of the project is to help people interested in computer science with content entirely in Portuguese, as there is still a shortage of computer content in this language.
+	</p>
+	<p class="description">
+		I have a huge passion for teaching and sharing knowledge as much as I can. I believe that information in the right hands has the power to move the world and offer better conditions for society.
+	</p>
+	<p class="description">
+		My interest and love for computing has been alive since I was 10 years old. I developed a study routine and I'm seeking more knowledge through projects. Currently the areas I am most involved are web development, artificial intelligence and data journalism.
+	</p>
+	<p class="description">
+		I'm in love with open source, communities and the power of women in technology. If you want to chat a little more with me, you can contact me through my social networks.
+	</p>
+</div>
+
+<h2>My Projects</h2>
+<div class="aboutme">
+	<ul class="recent">
+		{% for project in site.projects %}
+	  		<li>
+					<a href="{{ project.url }}"><h5>{{ project.name }}</h5></a>
+					<span>{{ project.about }}</span>
+				</li>
+	  {% endfor %}
+	</ul>
+</div>
+
+<h2>My skills</h2>
+<div class="aboutme">
+	<ul class="recent">
+		<table>
+		  <tbody>
+		    <tr>
+		      <td><li><p>Python</p></li></td>
+		      <td><li><p>Django</p></li></td>
+					<td><li><p>Git</p></li></td>
+					<td><li><p>Django Rest Framework</p></li></td>
+		    </tr>
+		    <tr>
+		      <td><li><p>HTML</p></li></td>
+		      <td><li><p>CSS</p></li></td>
+					<td><li><p>JavaScript</p></li></td>
+					<td><li><p>Bootstrap</p></li></td>
+		    </tr>
+				<tr>
+		      <td><li><p>Vim</p></li></td>
+					<td><li><p>Linux</p></li></td>
+					<td><li><p>REST API</p></li></td>
+		      <td><li><p>Docker</p></li></td>
+		    </tr>
+				<tr>
+					<td><li><p>Jekyll</p></li></td>
+					<td><li><p>Pelican</p></li></td>
+		      <td><li><p>C</p></li></td>
+					<td><li><p>Java</p></li></td>
+		    </tr>
+				<tr>
+					<td><li><p>Selenium</p></li></td>
+		      <td><li><p>Weka</p></li></td>
+					<td><li><p>Scrapy</p></li></td>
+					<td><li><p>Artificial Intelligence</p></li></td>
+		    </tr>
+				<tr>
+					<td><li><p>Cerely</p></li></td>
+					<td><li><p>PostgreSQL</p></li></td>
+					<td><li><p>MySQL</p></li></td>
+					<td><li><p>Arduino</p></li></td>
+		    </tr>
+		  </tbody>
+		</table>
+	</ul>
+</div>
+
+<h2>Learning</h2>
+<div class="aboutme">
+	<ul class="recent">
+		<table>
+		  <tbody>
+		    <tr>
+					<td><li><p>Data analysis with Python</p></li></td>
+		    </tr>
+		  </tbody>
+		</table>
+	</ul>
+</div>
+
+<h2>Podcast Participation</h2>
+<div class="aboutme">
+	<ul class="recent">
+		<li>
+			<a href="http://colaboradados.com.br/podcasts/episodio-001.html"><h5>Episódio #001 - O Começo - Colaboradados</h5></a>
+			<span>Neste primeiro episódio do seu podcast brasileiro de jornalismo de dados, conheça a equipe do projeto Colaboradados e entenda (quase simultaneamente com o resto da equipe) de onde surgiu a vontade de criarmos a plataforma, quem somos, o que fazemos nos poucos momentos fora da internet e o que cada um espera nesta longa jornada que temos pela frente.</span>
+		</li>
+		<li>
+			<a href="http://colaboradados.com.br/podcasts/episodio-007.html"><h5>Episódio #007 - 1, 2, 3, 4, 5, 6, PLIM! - Colaboradados</h5></a>
+			<span>Em um episódio especial do nosso podcast brasileiro de Jornalismo de Dados, aproveitamos o cabalístico episódio número 7 para atualizarmos nossos ouvintes dos últimos acontecimentos do projeto Colaboradados.</span>
+		</li>
+		<li>
+			<a href="http://tavernaprogramacao.com.br/podcast/ep017-universo-python/"><h5>EP017 – O Universo Python - Taverna da Programação</h5></a>
+			<span>Saudações Taverneiras e Taverneiros, no episódio 17 o nosso time de druidas embarca numa longa viagem para conhecer o universo do Python, com a Ana e a Letícia! Descubra neste episódio porque Python faz tanto sucesso e como ingressar nesta linguagem, veja também a entrevista da Ana e da Letícia, sobre histórias reais de pessoas ligadas na comunidade Python!</span>
+		</li>
+	</ul>
+</div>
