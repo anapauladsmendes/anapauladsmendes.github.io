@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bases/Repositórios com dados clínicos sobre SRAG e COVID-19"
-image: ''
+image: 'https://cdn.pixabay.com/photo/2020/03/19/21/35/covid-4948866_960_720.jpg'
 date: 2020-05-11 10:00:00
 created: 2020/05/11
 idiom: "portuguese"
