@@ -962,6 +962,10 @@ body {
 	letter-spacing: 9px;
 }
 
+.site-occupation {
+	font-size: 1.2rem;
+}
+
 .header-site .site-description {
 	font-size: 1.25rem;
 	display: block;
