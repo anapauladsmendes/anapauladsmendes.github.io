@@ -8,7 +8,7 @@ url: ""
 
 # User settings
 username: ANA PAULA MENDES
-occupation: Developer
+occupation: Senior Software Engineer | Consultant
 user_title: Ana Paula Mendes
 email: anapaula.ds.mendes@gmail.com
 twitter_username: ananoterminal
@@ -58,11 +58,8 @@ links:
 # projects in header index
 projects:
   - name: Ana no Terminal
-    url: http://ananoterminal.me/
+    url: https://ananoterminal.github.io/
     about: A personal initiative to share knowledge about technology, teach programming and create projects that help society in Portuguese.
-  - name: Meninas Digitais Piauí
-    url: https://meninasdigitaispiaui.github.io/
-    about: Women in technology initiative with students and teachers of the Universidade Federal do Piauí.
   - name: 100 Days of Code
     url: https://github.com/anapaulamendes/100-days-of-code
     about: I completed the challenge of studying and coding for 100 days straight.
