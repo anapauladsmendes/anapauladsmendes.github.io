@@ -3,17 +3,8 @@ layout: post
 title:  "Como reutilizar sua SSH Key"
 image: ''
 date: 2018-12-31 15:00:00
-created: 2018/12/31
-idiom: "portuguese"
-by: Ana Paula Mendes
-tags:
-- linux
-- ssh
-- devops
-- terminal
-description: ''
 categories:
-- Security
+- Portuguese
 ---
 
 ![Um gatinho digitando em um computador, sentado em uma cadeirinha](https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif)
@@ -50,11 +41,3 @@ ssh-add ~/.ssh/id_rsa
 ```
 
 E é isso! Agora você pode acessar suas contas facim facim! haha
-
-Gostou do help? Curte e compartilha com as pessoas! ❤
-
-Segue nas redes também:
-
--   [Twitter: @ananoterminal](https://twitter.com/ananoterminal)
--   [Medium: /ananoterminal](https://medium.com/ananoterminal)
--   [Github: /anapaulamendes](https://github.com/anapaulamendes)

@@ -24,9 +24,9 @@
       <a aria-label="My Lattes" title="See my Lattes" target="_blank" href="http://lattes.cnpq.br/8583289634357054">
         <svg class="icon icon-lattes"><use xlink:href="#icon-lattes"></use></svg>
       </a>
-      <!-- <a aria-label="My Devto" title="See my Devto" target="_blank" href="https://dev.to/anapaulamendes">
+      <a aria-label="My Devto" title="See my Devto" target="_blank" href="https://dev.to/anapaula">
         <svg class="icon icon-devto"><use xlink:href="#icon-devto"></use></svg>
-      </a> -->
+      </a>
       <a aria-label="My SpeakerDeck" title="See my SpeakerDeck" target="_blank" href="https://speakerdeck.com/anapaulamendes">
         <svg class="icon icon-speaker-deck"><use xlink:href="#icon-speaker-deck"></use></svg>
       </a>
@@ -34,16 +34,13 @@
     <div class="recent">
       <ul class="nav">
         <li class="nav-item">
-          <a class="nav-link" href="posts">My Posts</a>
+          <a class="nav-link" href="about">Who am I</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="about">About me</a>
+          <a class="nav-link" href="blog">Blog</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="series">Series</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="talks-workshops">Talks & Workshops</a>
+          <a class="nav-link" href="AnaPaulaMendesResume.pdf">Resume</a>
         </li>
       </ul>
     </div>
@@ -58,7 +55,7 @@
       {% endfor %}
     </ul>
     <ul class="recent">
-      <p>Recent projects:</p>
+      <p>Projects:</p>
       {% for project in site.projects limit: 3 %}
       <li>
         <a title="Show my recent project" href="{{ project.url}}">

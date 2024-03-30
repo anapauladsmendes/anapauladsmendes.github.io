@@ -3,17 +3,9 @@ layout: post
 title:  "Sobre meus 100 dias de código"
 image: 'https://media.giphy.com/media/3o7abJW5ZuiByDelji/giphy.gif'
 date: 2019-04-13 15:00:00
-created: 2019/04/13
 idiom: "portuguese"
-by: Ana Paula Mendes
-tags:
-- 100DaysOfCode
-- Django
-- Python
-- Code
-description: ''
 categories:
-- 100 Days Of Code
+- Portuguese
 ---
 
 ![Mulher maravilha](https://media.giphy.com/media/3o7abJW5ZuiByDelji/giphy.gif)

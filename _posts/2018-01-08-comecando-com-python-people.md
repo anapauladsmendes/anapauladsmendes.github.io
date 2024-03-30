@@ -3,17 +3,8 @@ layout: post
 title:  "Começando com Python"
 image: ''
 date:   2018-01-08 10:00:01
-created: 2018/01/08
-idiom: "portuguese"
-by: Ana Paula Mendes
-tags:
-- python
-- people
-- pyladies
-- beginner
-description: ''
 categories:
-- Learn Python
+- Portuguese
 ---
 
 ### Aprendendo para ensinar, a melhor forma de programar!
@@ -86,4 +77,4 @@ E aí?! Vamos mudar o mundo hoje?
 
 ![](https://cdn-images-1.medium.com/max/800/0*xcFVRreYlF_VUT1r.)
 
-P.S.: Com Python você vai aprender que  **PESSOAS > TECNOLOGIA**  e essa é a coisa mais incrível desse novo mundo! ❤
+Com Python você vai aprender que  **PESSOAS > TECNOLOGIA**  e essa é a coisa mais incrível desse novo mundo! ❤

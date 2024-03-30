@@ -1,13 +1,11 @@
 # Site settings
 title: Ana Paula Mendes
-description: "A personal blog to share knowledge and my professional experience in the technology career."
-# baseurl: "https://anapaulamendes.github.io"
-# url: "https://anapaulamendes.github.io"
+description: "A tech blog to share about my career"
 baseurl: ""
 url: ""
 
 # User settings
-username: ANA PAULA MENDES
+username: Ana Paula Mendes
 occupation: Senior Software Engineer | Consultant
 user_title: Ana Paula Mendes
 email: anapaula.ds.mendes@gmail.com
@@ -35,37 +33,23 @@ links:
     - title: home
       url: /
       key_trigger: 1
-    - title: my posts
-      url: /posts
-      key_trigger: 2
-    - title: series
-      url: /series
-      key_trigger: 3
-    - title: tags
-      url: /tags
-      key_trigger: 4
-    - title: about me
-      url: /about
-      key_trigger: 5
   section_2:
+    - title: blog
+      url: /blog
+      key_trigger: 2
+  section_3:
+    - title: whoami
+      url: /about
+      key_trigger: 3
+  section_4:
     - title: resume
       url: /AnaPaulaMendesResume.pdf
-      key_trigger: r
-    - title: talks & workshops
-      url: /talks-workshops
-      key_trigger: t
+      key_trigger: 4
 
 # projects in header index
 projects:
   - name: Ana no Terminal
     url: https://ananoterminal.github.io/
-    about: A personal initiative to share knowledge about technology, teach programming and create projects that help society in Portuguese.
-  - name: 100 Days of Code
-    url: https://github.com/anapaulamendes/100-days-of-code
-    about: I completed the challenge of studying and coding for 100 days straight.
-  - name: PyLadies Teresina
-    url: https://github.com/anapaulamendes/pyladiesteresina.github.io
-    about: A local mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community in Teresina, Piauí, Brazil.
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules', Gemfile, Gemfile.lock]

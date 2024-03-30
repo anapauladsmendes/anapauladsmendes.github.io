@@ -1,12 +1,10 @@
 ---
 layout: minimal
-title: "Series"
-permalink: /series
-image: 'https://avatars0.githubusercontent.com/u/9610091?s=460&v=4'
-description: "Take a look at my series of posts."
+title: "Blog"
+permalink: /blog
 ---
 
-<h2>Series</h2>
+<h2>Blog</h2>
 {% for tag in site.categories %}
   <span class="tag-title" id="{{ tag[0] | slugify }}">{{ tag[0] | capitalize }}</span>
   <ul class="post-list">
