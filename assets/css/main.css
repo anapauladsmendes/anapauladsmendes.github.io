@@ -238,7 +238,7 @@ td {
 .nav-link:focus,
 .nav-link:hover {
 	text-decoration: none;
-	background-color: #555357;
+	background-color: #00ff44;
 }
 
 .nav-item {
@@ -323,7 +323,7 @@ h4 {
 }
 
 .icons-home a:hover {
-	background: #fff;
+	background: #00ff44;
 }
 
 .icons-home a:hover .icon {
@@ -806,7 +806,7 @@ body.search-overlay:after {
 }
 
 .search-list a:hover {
-	color: #b3b3b3;
+	color: #00ff44;
 	border-bottom: 1px solid #b3b3b3
 }
 
@@ -907,6 +907,7 @@ body {
 .ul-menu {
 	display: flex;
 	justify-content: center;
+	margin-top: 30px;
 }
 
 .header-site .person img {
@@ -958,7 +959,7 @@ body {
 }
 
 .header-site .recent a h2:hover {
-	background: #fff
+	background: #00ff44;
 }
 
 .header-site h1,
@@ -1212,55 +1213,6 @@ body {
 	width: 100px
 }
 
-.page_talks .tree-talks {
-	display: block;
-	width: 100%
-}
-
-.page_talks #search {
-	background: transparent;
-}
-
-.page_talks #search svg {
-	background-color: transparent
-}
-
-.tree-talks {
-	padding-top: 43px;
-	width: 347px;
-	height: 100%;
-	position: fixed;
-	background-color: #000000;
-	overflow-y: auto;
-	top: 0;
-}
-
-.tree-talks h1 {
-	color: #c06a64;
-	position: relative;
-	text-align: center;
-	border-style: dotted;
-}
-
-.tree-talks h1:before {
-	width: 100px;
-	height: 4px;
-	position: absolute;
-	bottom: 0;
-	background-color: #c06a64
-}
-
-.tree-talks h4 {
-	position: relative;
-	text-align: left;
-	color: #c7b288;
-	margin-left: 50px;
-}
-
-.tree-talks h4:hover {
-	background-color: rgba(199, 178, 136, 0.32)
-}
-
 .share {
 	*zoom: 1;
 	width: auto;
@@ -1512,64 +1464,6 @@ pre span {
 	color: #fff
 }
 
-.author {
-	background: #f2f2f2;
-	display: table;
-	width: 100%;
-	padding: 2.5rem 0;
-	margin: 2.5rem 0;
-}
-
-.author .details {
-	margin: auto;
-	max-width: 50rem;
-	padding: 0 1.25rem;
-}
-
-.author img {
-	border-radius: 50%;
-	display: block;
-	margin: auto;
-}
-
-.author .def {
-	color: #808080;
-	font-size: 1.125rem;
-	font-family:courier, courier new, serif;
-	font-weight: 300;
-	font-style: normal;
-	margin: .625rem;
-}
-
-.author .name {
-	margin: 0;
-}
-
-.author .name a {
-	font-family:courier, courier new, serif;
-	font-weight: 800;
-	font-style: normal;
-	text-decoration: none;
-	color: #000;
-	font-size: 1.875rem;
-}
-
-.author .name a:hover {
-	color: #000000
-}
-
-.author .desc {
-	font-family:courier, courier new, serif;
-	font-weight: 300;
-	font-style: normal;
-	margin: .625rem;
-	font-size: 1rem;
-}
-
-.author .email {
-	text-decoration: none;
-	color: #000000
-}
 
 .comments {
 	*zoom: 1;
@@ -1750,23 +1644,6 @@ th.idiom {
 		padding: 1.25rem 0;
 		margin: 1.25rem 0
 	}
-	.author {
-		padding: 3.125rem 0
-	}
-	.author img {
-		float: left;
-		margin-right: 3.125rem
-	}
-	.author .def {
-		margin: 0;
-		padding-top: 1.563rem
-	}
-	.author .name a {
-		font-size: 2.813rem
-	}
-	.author .desc {
-		font-size: 1.25rem
-	}
 }
 
 @media only screen and (max-width:600px) {
@@ -1801,9 +1678,6 @@ th.idiom {
 	}
 	pre code {
 		overflow-x: scroll
-	}
-	.author .details {
-		text-align: center
 	}
 	.aboutme li p {
 		font-size: 0.9rem;
