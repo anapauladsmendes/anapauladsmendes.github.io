@@ -529,8 +529,6 @@ aside #topmenu ul:nth-child(2) li:nth-child(3) {
 	padding-left: 10px
 }
 
-
-
 aside #topmenu ul li {
 	-webkit-transform: skewx(-20deg);
 	transform: skewx(-20deg);
@@ -595,7 +593,7 @@ aside nav ul a {
 	font-family:courier, courier new, serif;
 	font-weight: 300;
 	font-style: normal;
-	color: #000000;
+	color: #00ff44;
 }
 
 aside nav ul a:hover {
