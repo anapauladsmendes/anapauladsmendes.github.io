@@ -1528,11 +1528,29 @@ th.idiom {
 	aside {
 		height: 230px;
 	}
+	html, body {
+		height: 112%;
+	}
+	.icons-home {
+		text-align: center;
+		font-size: 0px;
+	}
+	.ul-menu {
+		display: flex;
+		justify-content: center;
+		margin-top: 20px;
+	}
+	.header-site li {
+		margin-left: 1px;
+	}
+	.site-occupation {
+		font-size: 0.9rem;
+	}
 	.overlay.slide {
 		bottom: 230px;
 	}
 	.header-site .content {
-		margin-top: 20px;
+		margin-top: 80px;
 	}
 	.header-site .person img {
 		margin-top: 0;
@@ -1541,7 +1559,7 @@ th.idiom {
 		border-radius: 100%
 	}
 	.header-site .site-title {
-		font-size: 0.875rem;
+		font-size: 2rem;
 	}
 	.icons-home a .icon {
 		width: 20px;
@@ -1563,32 +1581,6 @@ th.idiom {
 
 	#posts-title {
 		text-align: left;
-	}
-}
-
-@media only screen and (min-width: 400px) and (max-width: 900px) {
-	.header-site .content {
-		margin-top: 20px;
-	}
-	.header-site .person img {
-		margin-top: 0;
-		width: 150px;
-		height: 150px;
-		border-radius: 100%
-	}
-	.header-site .site-title {
-		font-size: 0.875rem;
-	}
-	.icons-home a .icon {
-		width: 20px;
-		height: 20px;
-	}
-	.recent,
-	.nav {
-		font-size: 0.9em;
-	}
-	.header-site .recent a h2 {
-		font-size: 0.875rem;
 	}
 }
 
