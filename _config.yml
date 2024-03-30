@@ -12,6 +12,8 @@ email: anapaula.ds.mendes@gmail.com
 twitter_username: ananoterminal
 github_username:  anapaulamendes
 linkedin_public_url: anapauladsmendes/
+youtube_channel: ananoterminal
+twitch_channel: ananoterminal
 disqus_username: ananoterminal
 profile_picture: https://avatars0.githubusercontent.com/u/9610091?s=460&v=4
 
@@ -49,7 +51,7 @@ links:
 # projects in header index
 projects:
   - name: Ana no Terminal
-    url: https://ananoterminal.github.io/
+    url: https://github.com/ananoterminal
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules', Gemfile, Gemfile.lock]
