@@ -238,11 +238,15 @@ td {
 .nav-link:focus,
 .nav-link:hover {
 	text-decoration: none;
-	background-color: #fff;
+	background-color: #555357;
 }
 
 .nav-item {
 	margin-bottom: -1px
+}
+
+.nav-menu {
+	background-color: #f5f5f5;
 }
 
 a {
@@ -893,8 +897,16 @@ body {
 }
 
 .header-site li {
-	margin: 0;
-	list-style-type: none
+	margin-left: 50px;
+	list-style-type: none;
+	font-size: 1.5rem;
+	font-family: courier, courier new, serif;
+	font-weight: bolder;
+}
+
+.ul-menu {
+	display: flex;
+	justify-content: center;
 }
 
 .header-site .person img {
@@ -904,9 +916,10 @@ body {
 }
 
 .header-site .recent {
-	*zoom: 1;
+	*
+	zoom: 1;
 	width: auto;
-	max-width: 450px;
+	max-width: 800px;
 	float: none;
 	display: block;
 	margin-right: auto;
@@ -927,7 +940,9 @@ body {
 
 .header-site .recent p {
 	text-align: left;
-	color: #7100ff
+	color: #7100ff;
+	font-family: courier, courier new, serif;
+	font-size: 1.8rem;
 }
 
 .header-site .recent a {
@@ -938,7 +953,7 @@ body {
 	text-align: left;
 	margin: 0;
 	font-weight: 300;
-	font-size: 1.063rem;
+	font-size: 1.5rem;
 	border-bottom: 1px solid #7100ff;
 }
 
@@ -963,7 +978,7 @@ body {
 }
 
 .site-occupation {
-	font-size: 1.2rem;
+	font-size: 1.7rem;
 }
 
 .header-site .site-description {
@@ -1699,7 +1714,7 @@ th.idiom {
 	.header-site .site-title {
 		letter-spacing: 16px;
 		margin-bottom: 0;
-		font-size: 1.25rem
+		font-size: 2.25rem;
 	}
 	.header-site .site-description {
 		font-size: 2.5rem
